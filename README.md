@@ -1,5 +1,16 @@
-## Hi there 👋
+# About Me
 
+![Personal Headshot](ENelson%20Profile%20Pic.jpeg "Headshot")
+
+## Introduction
+
+## Education
+
+## Experience
+
+## Skills
+
+## Get to know me
 <!--
 I’m a Statistics major at Brigham Young University with an emphasis in data science, focused on applying analytics inside real operational systems rather than isolated technical work. My background includes statistical modeling, data analysis, and programming in Python and R, along with training in data visualization and management communication.
 
