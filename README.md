@@ -2,7 +2,11 @@
 
 ## Image
 
-![Headshot of Ethan Nelson](ENelson Profile Pic.jpeg)
+## Image
+
+![Headshot of Ethan Nelson](ENelsonProfilePic.jpeg)
+
+## Introduction
 
 ## Introduction
 
