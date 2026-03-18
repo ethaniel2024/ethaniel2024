@@ -4,7 +4,7 @@
 
 ## Image
 
-![Headshot of Ethan Nelson]ENelson Profile Pic.jpeg
+![Headshot of Ethan Nelson](ENelson Profile Pic.jpeg)
 
 ## Introduction
 
